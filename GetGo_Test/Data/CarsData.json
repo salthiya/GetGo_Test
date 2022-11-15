@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "Name": "CarsA",
+    "isBooked": false,
+    "HomeLot": {
+      "IsEmpty": true,
+      "X": 1,
+      "Y": 1
+    },
+    "Distance": null
+  },
+  {
+    "Id": 2,
+    "Name": "CarsB",
+    "isBooked": false,
+    "HomeLot": {
+      "IsEmpty": true,
+      "X": 2,
+      "Y": 2
+    },
+    "Distance": null
+  },
+  {
+    "Id": 3,
+    "Name": "CarsC",
+    "isBooked": false,
+    "HomeLot": {
+      "IsEmpty": true,
+      "X": 3,
+      "Y": 3
+    },
+    "Distance": null
+  },
+  {
+    "Id": 4,
+    "Name": "CarsD",
+    "isBooked": false,
+    "HomeLot": {
+      "IsEmpty": true,
+      "X": 4,
+      "Y": 4
+    },
+    "Distance": null
+  },
+  {
+    "Id": 5,
+    "Name": "CarsE",
+    "isBooked": false,
+    "HomeLot": {
+      "IsEmpty": true,
+      "X": 5,
+      "Y": 5
+    },
+    "Distance": null
+  }
+]
